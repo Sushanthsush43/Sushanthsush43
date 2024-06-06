@@ -2,9 +2,9 @@
 [![icon](https://github.com/VikramadityaDev/VikramadityaDev/assets/63139007/38aa000d-85c6-43be-a1ae-4348c56741e2)](https://github.com/Sushanthsush43)
 
 # Hi, my name is Sushanth <img src = "https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"/>
-I am a Full Stack Developer skilled in MySQL, Java, Flutter, JavaScript,ReactJS, AWS Lambda, and Python currently interning at Mobiezy Solutions in Bangalore, with a recently completed Master of Computer Application(MCA) from Manipal Institute of Technology.
+I am a Full Stack Developer skilled in MySQL, Java, Flutter, JavaScript,ReactJS, AWS Lambda, Java and Python currently interning at Mobiezy Solutions in Bangalore, with a recently completed Master of Computer Application(MCA) from Manipal Institute of Technology.
 
-👨‍💻 Web Developer | 🚀 Flutter Developer | 💻 MYSQL Database | 🌐 AWS
+💻 MYSQL Database  | 🚀 Flutter Developer | 👨‍💻 Web Developer | 🌐 AWS
 <br>
 <!-- <img align="right" alt="coding" width="320" src="https://github.com/VikramadityaDev/VikramadityaDev/assets/63139007/80d87131-7169-471a-9772-b2e05eb026d5" /> -->
 
@@ -31,9 +31,6 @@ I am a Full Stack Developer skilled in MySQL, Java, Flutter, JavaScript,ReactJS,
     <td align="center">
       <div><b><em><spam>Statistics</spam></em></b></div>
       <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
-    </td>
-    <td align="left">
-      <img src="https://github-readme-stats.vercel.app/api?username=VikramadityaDev&hide_border=true&show_icons=true&theme=dark&bg_color=00000000"/>
     </td>
   </tr>
 </table>
