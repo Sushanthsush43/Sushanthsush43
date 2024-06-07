@@ -14,7 +14,7 @@ I am a Full Stack Developer skilled in MySQL, Java, Flutter, JavaScript,ReactJS,
 
 - 🔭 I’m currently working on Full Stack Developer Intern ~ <!-- - 🌱 I’m currently learning **Android** -->
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
-- ⚡ Fact: Eternal technology lover ~
+- ⚡ Here's my portfolio, highlighting my skills, projects, and experiences :
 - 📫 My email address `sushanthdevadiga034@gmail.com Welcome to contact me 👏🏻 ~
 
 <br>
