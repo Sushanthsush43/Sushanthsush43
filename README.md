@@ -25,21 +25,22 @@ I am a Full Stack Developer skilled in MySQL, Java, Flutter, JavaScript,ReactJS,
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haany Ali'
+ 	user = 'Sushanth'
 		current_work = 'Writing code'
 		hobbies = [
-				'Drawing',
+				'Karate',
 				'Watching Anime',
-				'Reading Sci-Fi Novels'
+				'Cricket'
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
 	def getCity():
-		return Vancouver_Canada()
+		return Udupi_India()
 	
 	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
+		CareerAdvancement()
+		MentorInspireOthers()
+		PersonalGrowth()
 		FinishMyNovel()
 		# Assume 10 more awesome ambitions here  ;)
 	
