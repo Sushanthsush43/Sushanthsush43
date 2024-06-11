@@ -46,15 +46,7 @@ I am a Full Stack Developer skilled in MySQL, Java, Flutter, JavaScript,ReactJS,
  ```
 
 
-##
-<table align="center">
-  <tr>
-    <td align="center">
-      <div><b><em><spam>Statistics</spam></em></b></div>
-      <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
-    </td>
-  </tr>
-</table>
+
 
 
 ## 🐍 My Contributions
