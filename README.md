@@ -41,8 +41,7 @@ I am a Full Stack Developer skilled in MySQL, Java, Flutter, JavaScript,ReactJS,
 		CareerAdvancement()
 		MentorInspireOthers()
 		PersonalGrowth()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
+;)
 	
  ```
 
