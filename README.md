@@ -28,9 +28,9 @@ I am a Full Stack Developer skilled in MySQL, Java, Flutter, JavaScript,ReactJS,
  	user = 'Sushanth'
 		current_work = 'Writing code'
 		hobbies = [
-				'Karate',
-				'Watching Anime',
-				'Cricket'
+				'Sports',
+				'Anime',
+				'Dancing'
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
