@@ -30,7 +30,7 @@ I am a Full Stack Developer skilled in MySQL, Java, Flutter, JavaScript,ReactJS,
 		hobbies = [
 				'Sports',
 				'Anime',
-				'Dancing'
+				'Travel'
 				'Being up all Night chasing that ONE BUG...'
 			]
 	
