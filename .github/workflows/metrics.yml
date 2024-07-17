@@ -16,7 +16,8 @@ jobs:
       contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3  # Use the latest version
+
       - name: Generate GitHub Metrics
         uses: lowlighter/metrics@latest
         with:
@@ -34,5 +35,6 @@ jobs:
           config_display: large
           config_octicon: yes
           config_twemoji: yes
+
       - name: Debug Info
         run: echo "GitHub Metrics job completed"
