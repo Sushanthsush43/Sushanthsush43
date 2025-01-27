@@ -12,7 +12,7 @@ I am a Full Stack Developer skilled in MySQL, Java, Flutter, JavaScript,ReactJS,
 <br>
   <p align="center"><img src="https://komarev.com/ghpvc/?username=vikramadityadev&style=for-the-badge&color=blueviolet" alt="vikramadityadev" /> </p>
 
-- 🔭 I’m currently working on Full Stack Developer Intern ~ <!-- - 🌱 I’m currently learning **Android** -->
+- 🔭 I’m currently Searching for Job ~ <!-- - 🌱 I’m currently learning **Android** -->
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - ⚡ Here's my portfolio https://portfolio-smoky-nu-75.vercel.app ~
 - 📫 My email address sushanthdevadiga034@gmail.com Welcome to contact me 👏🏻 ~
